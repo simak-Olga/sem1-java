@@ -1,3 +1,4 @@
+Вычислить n-ое треугольного число(сумма чисел от 1 до n), n! (произведение чисел от 1 до n)
 public class program {
     static boolean isTriangular(int num) {
         // Base case
