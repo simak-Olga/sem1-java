@@ -1,3 +1,4 @@
+Реализовать простой калькулятор
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
